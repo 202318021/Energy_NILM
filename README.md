@@ -1,6 +1,9 @@
 # Energy_NILM
+
 Smart Metering &amp; Energy Solutions with Data Analytics &amp; EaaS (Energy as a Service)
+
 Name : Kandarp Malkan
+
 LLM Used : llama3-8b-8192
 
 Summary of Tasks Completed:
